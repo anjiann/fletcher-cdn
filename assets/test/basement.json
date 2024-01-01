@@ -600,7 +600,7 @@
         {
          "columns":16,
          "firstgid":1,
-         "image":"..\/..\/tiles\/basement.png",
+         "image":"..\/tiles\/basement.png",
          "imageheight":800,
          "imagewidth":256,
          "margin":0,
@@ -2759,7 +2759,7 @@
         {
          "columns":76,
          "firstgid":801,
-         "image":"..\/..\/tiles\/room-builder.png",
+         "image":"..\/tiles\/room-builder.png",
          "imageheight":1744,
          "imagewidth":1216,
          "margin":0,
